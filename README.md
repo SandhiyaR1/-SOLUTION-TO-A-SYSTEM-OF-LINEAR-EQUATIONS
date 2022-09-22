@@ -28,7 +28,7 @@ print( C)
 ```
 
 ## Output:
-![output](/slovinglineareq.png))
+![output](/slovinglineareq.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
